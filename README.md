@@ -22,7 +22,7 @@ Additional requirements are a permanent internet connection, a microphone (simpl
 home assistant, i.e. installing it in a room, more expensive conference microphones should be used for solid speech 
 recognition, even from the distance) and speakers for audio output.
 
-At the moment, there are CORS problems with certain commands (e.g. "How long do I need to <destination>?", which is using the Google Directions API), 
+At the moment, there are CORS problems with certain commands (e.g. "How long do I need to get to (destination)?", which is using the Google Directions API), 
 so you need to configure your browser's CORS behaviour to allow all REST retrievals (for Chrome use [this](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)).
 
 ## Usage
